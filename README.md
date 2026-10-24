@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/doublegate/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-doublegate.vercel.app/api?username=doublegate&show_icons=true&theme=tokyonight" /><br>
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=doublegate&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" /><br>
   <a href="https://www.buymeacoffee.com/doublegate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </a></p>
 
